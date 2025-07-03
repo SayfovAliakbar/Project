@@ -32,9 +32,9 @@ const Student = () => {
       <div className='bg-[#FFEEE8] w-[100%] h-[200px]'></div>
 
       <div className='w-[95%] m-auto mt-[-100px] bg-white'>
-        <div className='flex justify-between items-center flex-wrap gap-[20px]'>
+        <div className='flex justify-between items-center flex-wrap gap-[20px] px-[2%] py-[3vh]'>
           <div className='flex items-center gap-[25px]'>
-            <img src={ava} alt="" />
+            <img src={ava} alt="" className="shrink-1."/>
             <div>
               <p className='text-[25px]'><b>Kevin Gilbert</b></p>
               <p className='text-[#6E7485]'>Web Designer & Best-Selling Instructor</p>
@@ -59,17 +59,17 @@ const Student = () => {
 
         <p className='text-[25px]'><b>Instructors</b> (241)</p>
         <br/>
-        <div className='flex justify-around items-center flex-wrap gap-[25px]'>
+        <div className='flex justify-baseline items-center flex-wrap gap-[25px]'>
           <div>
             <label className='text-[#6E7485]'>Search:</label>
             <br/>
-            <input type="text" placeholder='🔍 Search in your teachers...' className='border-[1px] border-[#E9EAF0] w-[400px] rounded-[10px] h-[40px]'/>
+            <input type="text" placeholder='🔍 Search in your teachers...' className='border-[1px] border-[#E9EAF0] w-[300px] lg:w-[400px] rounded-[10px] h-[40px]'/>
           </div>
 
           <div>
             <label className='text-[#6E7485]'>Courses:</label>
             <br/>
-            <Select placeholder="All Courses" className='w-[400px] h-[50px]'>
+            <Select placeholder="All Courses" className='w-[300px] lg:w-[400px] h-[50px]'>
               <option value="">All Courses</option>
             </Select>
           </div>
@@ -77,7 +77,7 @@ const Student = () => {
           <div>
             <label className='text-[#6E7485]'>Teacher:</label>
             <br/>
-            <Select placeholder="All Teachers" className='w-[400px] h-[50px]'>
+            <Select placeholder="All Teachers" className='w-[200px] h-[50px]'>
               <option value="">All Teachers</option>
             </Select>
           </div>
