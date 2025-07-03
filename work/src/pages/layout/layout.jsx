@@ -30,31 +30,31 @@ const Layout = () => {
               <p>{t("Example.1")}</p>
             </Link>
 
-            <Link>
+            <Link to={'career'}>
               <p>{t("Example.2")}</p>
             </Link>
 
-            <Link>
+            {/* <Link to={'about'}>
               <p>{t("Example.3")}</p>
-            </Link>
+            </Link> */}
 
-            <Link>
+            <Link to={'catigory'}>
               <p>{t("Example.4")}</p>
             </Link>
 
-            <Link>
+            <Link to={'single'}>
               <p>{t("Example.5")}</p>
             </Link>
 
-            <Link>
+            <Link to={'student'}>
               <p>{t("Example.6")}</p>
             </Link>
 
-            <Link>
+            <Link to={'career2'}>
               <p>{t("Example.7")}</p>
             </Link>
 
-            <Link>
+            <Link to={'instructor'}>
               <p>{t("Example.8")}</p>
             </Link>
           </div>
