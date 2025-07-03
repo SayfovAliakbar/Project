@@ -1,0 +1,11 @@
+@media (max-width: 1400px) {
+    .all1 {
+        flex-direction: column;
+        text-align: center;
+    }
+    .all2 {
+        flex-direction: column;
+        width: 50%;
+        margin: auto;
+    }
+}
