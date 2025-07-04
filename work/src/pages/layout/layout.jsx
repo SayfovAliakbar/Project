@@ -34,10 +34,6 @@ const Layout = () => {
               <p>{t("Example.2")}</p>
             </Link>
 
-            {/* <Link to={'about'}>
-              <p>{t("Example.3")}</p>
-            </Link> */}
-
             <Link to={'catigory'}>
               <p>{t("Example.4")}</p>
             </Link>
