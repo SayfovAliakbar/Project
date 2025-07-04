@@ -10,7 +10,7 @@ import frame7 from '../home/img/Frame 145 (7).png'
 import frame8 from '../home/img/Frame 145 (8).png'
 import frame9 from '../home/img/Frame 145 (9).png'
 import frame11 from '../home/img/Frame 145 (11).png'
-import frame12 from '../home/img/Frame 145 (12).png'
+import frame12 from '../home/img/Frame 145 (10).png'
 import course from '../home/img/Course Images.png'
 import star from '../home/img/Star (1).png'
 import course1 from '../home/img/Course Images (1).png'
@@ -53,7 +53,7 @@ import logo19 from '../home/img/LOGO (19).png'
 import logo20 from '../home/img/LOGO (20).png'
 import logo21 from '../home/img/LOGO (21).png'
 import logo22 from '../home/img/LOGO (22).png'
-import '../home/home.css'
+// import '../home/home.css'
 const Home = () => {
   return (
     <div>
@@ -189,7 +189,7 @@ const Home = () => {
           </div>
         </div>
         <div style={{ display: 'flex', justifyContent: 'center', marginTop: ' 50px' }}>
-          <span style={{ color: '#4E5566' }}>We have more category & subcategory. <span style={{ color: '#FF6636' }}>Browse All -></span></span>
+          <span style={{ color: '#4E5566' }}>We have more category & subcategory. <span style={{ color: '#FF6636' }}>Browse All </span></span>
         </div>
       </div>
 

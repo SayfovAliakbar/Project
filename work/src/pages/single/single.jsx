@@ -15,7 +15,7 @@ const Single = () => {
 					Webflow, and make a living freelancing.
 				</p>
 
-				<img src='/src/pages/single/img/Course Info.svg' alt='' />
+				<img src='/src/pages/single/img/Course Info.png' alt='' />
 
 				<img
 					src='/src/pages/single/img/Trailer.png'
@@ -73,27 +73,27 @@ const Single = () => {
           <h1 className='font-medium text-3xl my-5 text-black '>What you will learn in this course</h1>
           <div className="flex flex-wrap justify-between">
               <div className="w-[390px] my-5 flex items-start gap-2">
-                <img src="/src/pages/single/img/CheckCircle.svg" alt="" />
+                <img src="/src/pages/single/img/CheckCircle.png" alt="" />
                   <p>You will learn how to design beautiful websites using Figma, an interface design tool used by designers at Uber, Airbnb and Microsoft.</p>
               </div>
               <div className="w-[390px] my-5 flex items-start gap-2">
-                <img src="/src/pages/single/img/CheckCircle.svg" alt="" />
+                <img src="/src/pages/single/img/CheckCircle.png" alt="" />
                   <p>You will learn how to take your designs and build them into powerful websites using Webflow site builder used by teams at Dell, NASA and more.</p>
               </div>
               <div className="w-[390px] my-5 flex items-start gap-2">
-                <img src="/src/pages/single/img/CheckCircle.svg" alt="" />
+                <img src="/src/pages/single/img/CheckCircle.png" alt="" />
                   <p>You will learn secret tips of Freelance Web Designers and how they make great money freelancing online.</p>
               </div>
               <div className="w-[390px] my-5 flex items-start gap-2">
-                <img src="/src/pages/single/img/CheckCircle.svg" alt="" />
+                <img src="/src/pages/single/img/CheckCircle.png" alt="" />
                   <p>Learn to use Python professionally, learning both Python 2 and Python 3!</p>
               </div>
               <div className="w-[390px] my-5 flex items-start gap-2">
-                <img src="/src/pages/single/img/CheckCircle.svg" alt="" />
+                <img src="/src/pages/single/img/CheckCircle.png" alt="" />
                   <p>Understand how to use both the Jupyter Notebook and create .py files</p>
               </div>
               <div className="w-[390px] my-5 flex items-start gap-2">
-                <img src="/src/pages/single/img/CheckCircle.svg" alt="" />
+                <img src="/src/pages/single/img/CheckCircle.png" alt="" />
                   <p>Get an understanding of how to create GUIs in the Jupyter Notebook system!</p>
               </div>
           </div>
@@ -125,7 +125,7 @@ const Single = () => {
         <div className=" my-10">
           <h1 className='font-medium text-3xl my-5 text-black'>Course instructor (02)</h1>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (5).svg" alt="" />
+              <img src="/src/pages/single/img/Image (5).png" alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] my-2 text-gray-500'>Entrepreneur & Designer • Founder of ShiftRide</p>
@@ -134,7 +134,7 @@ const Single = () => {
               </div>
           </div>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (5).svg" alt="" />
+              <img src="/src/pages/single/img/Image (5).png" alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] my-2 text-gray-500'>Entrepreneur & Designer • Founder of ShiftRide</p>
@@ -148,7 +148,7 @@ const Single = () => {
        <div className=" my-10">
           <h1 className='font-medium text-3xl my-5 text-black'>Students Feedback</h1>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (6).svg" className='my-4 w-[50px]' alt="" />
+              <img src="/src/pages/single/img/Image (6).png" className='my-4 w-[50px]' alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] mb-2 text-gray-500'>⭐⭐⭐⭐⭐</p>
@@ -156,7 +156,7 @@ const Single = () => {
               </div>
           </div>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (6).svg" className='my-4 w-[50px]' alt="" />
+              <img src="/src/pages/single/img/Image (6).png" className='my-4 w-[50px]' alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] mb-2 text-gray-500'>⭐⭐⭐⭐⭐</p>
@@ -164,7 +164,7 @@ const Single = () => {
               </div>
           </div>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (6).svg" className='my-4 w-[50px]' alt="" />
+              <img src="/src/pages/single/img/Image (6).png" className='my-4 w-[50px]' alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] mb-2 text-gray-500'>⭐⭐⭐⭐⭐</p>
@@ -172,7 +172,7 @@ const Single = () => {
               </div>
           </div>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (6).svg" className='my-4 w-[50px]' alt="" />
+              <img src="/src/pages/single/img/Image (6).png" className='my-4 w-[50px]' alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] mb-2 text-gray-500'>⭐⭐⭐⭐⭐</p>
@@ -180,7 +180,7 @@ const Single = () => {
               </div>
           </div>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (6).svg" className='my-4 w-[50px]' alt="" />
+              <img src="/src/pages/single/img/Image (6).png" className='my-4 w-[50px]' alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] mb-2 text-gray-500'>⭐⭐⭐⭐⭐</p>
@@ -188,7 +188,7 @@ const Single = () => {
               </div>
           </div>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (6).svg" className='my-4 w-[50px]' alt="" />
+              <img src="/src/pages/single/img/Image (6).png" className='my-4 w-[50px]' alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] mb-2 text-gray-500'>⭐⭐⭐⭐⭐</p>
@@ -196,7 +196,7 @@ const Single = () => {
               </div>
           </div>
           <div className="flex items-start gap-4">
-              <img src="/src/pages/single/img/Image (6).svg" className='my-4 w-[50px]' alt="" />
+              <img src="/src/pages/single/img/Image (6).png" className='my-4 w-[50px]' alt="" />
               <div className="my-2">
                 <h2 className='font-medium text-2xl  text-black'>Nima Tahami</h2>
                 <p className='text-[16px] mb-2 text-gray-500'>⭐⭐⭐⭐⭐</p>
@@ -384,7 +384,7 @@ const Single = () => {
 
 
            <div className="w-[240px] border my-5">
-            <img src="/src/pages/single/img/Course Images.svg" alt="" />
+            <img src="/src/pages/single/img/Course Images.png" alt="" />
             <div className="flex justify-between w-[98%] my-2 m-auto">
               <button className='text-[#993D20] px-2 py-1 bg-[#FFEEE8]'>DESIGN</button>
               <p className='text-[#993D20] font-medium text-xl'>57$</p>
@@ -397,7 +397,7 @@ const Single = () => {
             </div>
           </div>
            <div className="w-[240px] border my-5">
-            <img src="/src/pages/single/img/Course Images (1).svg" alt="" />
+            <img src="/src/pages/single/img/Course Images.png" alt="" />
             <div className="flex justify-between w-[98%] my-2 m-auto">
               <button className='text-[#993D20] px-2 py-1 bg-[#FFEEE8]'>DESIGN</button>
               <p className='text-[#993D20] font-medium text-xl'>57$</p>
@@ -410,7 +410,7 @@ const Single = () => {
             </div>
           </div>
            <div className="w-[240px] border my-5">
-            <img src="/src/pages/single/img/Course Images (2).svg" alt="" />
+            <img src="/src/pages/single/img/Course Images.png" alt="" />
             <div className="flex justify-between w-[98%] my-2 m-auto">
               <button className='text-[#993D20] px-2 py-1 bg-[#FFEEE8]'>DESIGN</button>
               <p className='text-[#993D20] font-medium text-xl'>57$</p>
@@ -423,7 +423,7 @@ const Single = () => {
             </div>
           </div>
            <div className="w-[240px] border my-5">
-            <img src="/src/pages/single/img/Course Images (3).svg" alt="" />
+            <img src="/src/pages/single/img/Course Images.png" alt="" />
             <div className="flex justify-between w-[98%] my-2 m-auto">
               <button className='text-[#993D20] px-2 py-1 bg-[#FFEEE8]'>DESIGN</button>
               <p className='text-[#993D20] font-medium text-xl'>57$</p>
@@ -436,7 +436,7 @@ const Single = () => {
             </div>
           </div>
            <div className="w-[240px] border my-5">
-            <img src="/src/pages/single/img/Course Images (4).svg" alt="" />
+            <img src="/src/pages/single/img/Course Images.png" alt="" />
             <div className="flex justify-between w-[98%] my-2 m-auto">
               <button className='text-[#993D20] px-2 py-1 bg-[#FFEEE8]'>DESIGN</button>
               <p className='text-[#993D20] font-medium text-xl'>57$</p>
