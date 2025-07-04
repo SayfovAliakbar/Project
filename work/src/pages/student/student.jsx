@@ -1,6 +1,6 @@
 import React from 'react'
 import ava from "./img/Photos.png"
-import right from "./img/ArrowRight.png"
+import right from "./img/ArrowRight (1).png"
 import { Select } from 'antd'
 import user1 from "./img/Image (7).png"
 import star from "./img/Star.png"
